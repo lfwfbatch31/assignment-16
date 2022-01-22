@@ -1,0 +1,56 @@
+.header{
+    background-color: #101446;
+}
+.header-logo img{
+    width: 100px;
+    padding-top: 10px;
+}
+.menu{}
+.menu ul{
+    margin-bottom:0;
+    text-align: right;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    display: block;
+    color: white;
+    padding: 0 20px;
+    font-size: 20px;
+    line-height:75px;
+    text-decoration: none;
+}
+.menu ul li a:hover{}
+
+.banner{
+    background-image: url(./Background.jpg);
+    padding:200px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+.bg-color{
+    background-color: #337ab7;
+    padding: 8px 10px;
+    border-radius: 5%;
+}
+.service{
+    background-color:#bac1f3;
+    padding-top: 20px;
+    
+}
+.service img{
+    padding-top: 40px;
+}
+h5{
+    background-color: #337ab7;
+    padding:5px 5px;
+    display: inline-block;
+    border-radius: 5%;
+}
+.abiut-us{
+    text-align: center;
+    background-color: #c2d4ea;
+    padding: 50px 0;
+}
